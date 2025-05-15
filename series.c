@@ -11,4 +11,5 @@ int main(int argc, char *argv[])
     sum += 1.0/i;
   }
   printf("%f", sum);
+  return 0;
 }
